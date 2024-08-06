@@ -3,7 +3,7 @@ export default function Card({ children }) {
     <div
       className={`
         w-auto md:w-1/4 flex flex-col justify-center gap-8
-        border-solid border-2 border-black rounded-xl
+        border-solid border-2 border-gray-800 rounded-xl
         shadow-lg
         p-4
       `}
